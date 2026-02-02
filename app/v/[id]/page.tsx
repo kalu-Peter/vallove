@@ -59,7 +59,7 @@ export default function RecipientPage() {
       ) : (
         <div className="text-center">
           <img
-            src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajN4eGZ3b3g3a3F5b3R5eWJ5eHl5eWJ5eHl5eWJ5eHl5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cLS1cfxvGOPVpf9wXM/giphy.gif"
+            src="/val.jpeg"
             alt="Cute Bear"
             className="w-48 mx-auto rounded-xl mb-6"
           />
